@@ -1,4 +1,4 @@
-# Covid-19Bot
+# Covid-19 Telegram Bot
 Covid-19 statistikasini aniqlovchi Telegram Bot
 
 ## Bot kodini yuklash:
