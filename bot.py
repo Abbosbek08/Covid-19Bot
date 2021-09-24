@@ -3,7 +3,7 @@ import requests
 from aiogram import Bot,Dispatcher,executor,types
 
 url='https://ca-uz.herokuapp.com/'
-API_TOKEN='2044908767:AAHPRUakqIniLmsJkdM6CvArIyhL1r9GRqY'
+API_TOKEN='BOT TOKENI'
 
 logging.basicConfig(level=logging.INFO)
 
